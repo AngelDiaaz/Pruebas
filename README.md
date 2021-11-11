@@ -1,7 +1,7 @@
 # Repositorio de Entornos de Desarrollo
 
 ## Este es el primer repositorio que hemos creado en GIT
-> Estamos aprendiendo a trabajar con _GIT_ y para ~~ello~~ eso hemos creado este repositorio.
+> Estamos aprendiendo a trabajar con _GIT_ y para ~~ello~~ eso hemos creado este repositorio :🐱‍👤.
 
 ### Ventajas
 - Controlar las versiones de mi código.
